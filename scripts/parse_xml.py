@@ -37,12 +37,15 @@ for fn in os.listdir(data_dir):
         # extract the impression from the xml file
         impression = extract_impression(root)
 
-        # write the filename and impression to csv file
-        with open('./data/impressions.csv', 'a', encoding='UTF8', newline='') as ff:
-            # create the csv writer
-            writer = csv.writer(ff)
+        # check if impression is blank
+        if impression is not None:
 
-            # write the data  to the csv file
-            data = [fn, impression]
-            # print(data)
-            writer.writerow(data)
+            # write the filename and impression to csv file
+            with open('./data/impressions.csv', 'a', encoding='UTF8', newline='') as ff:
+                # create the csv writer
+                writer = csv.writer(ff)
+
+                # write the data  to the csv file
+                data = [fn, impression]
+                # print(data)
+                writer.writerow(data)
