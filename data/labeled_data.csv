@@ -22,7 +22,7 @@
 20,1016.xml,"Comparison XXXX, XXXX. XXXX right pleural opacity along the lower chest wall compatible with thickening and/or some loculated effusion, accompanied with some adjacent atelectasis / airspace disease within the right lung base. Round opacity seen projecting adjacent to right hilum on PA view is XXXX on lateral view to represent some discoid atelectasis or fluid associated with the upper aspect of the XXXX fissure. Some XXXX opacities compatible with scarring/chronic inflammatory change are seen within the left lower lung which are more conspicuous versus previous examination. Stable mediastinal contour.",1
 21,1017.xml,No active disease.,0
 22,1018.xml,No acute cardiopulmonary abnormality.,0
-23,1019.xml,Blunting of the right costophrenic sulcus could be secondary to a XXXX effusion versus scarring. No focal airspace consolidation.,
+23,1019.xml,Blunting of the right costophrenic sulcus could be secondary to a XXXX effusion versus scarring. No focal airspace consolidation.,1
 24,102.xml,No acute cardiopulmonary abnormality.,0
 25,1020.xml,Hypoinflation with no visible active cardiopulmonary disease.,1
 26,1021.xml,"Recurrent right pneumothorax, complete collapse of the right lung, near 100%. Right-to-left mediastinal shift is present, suggesting XXXX physiology.",1
@@ -153,9 +153,9 @@
 151,1138.xml,No acute cardiopulmonary abnormality. .,0
 152,1139.xml,Cardiomegaly and increased interstitial opacities XXXX represent interstitial edema.,1
 153,114.xml,No acute cardiopulmonary abnormalities.,0
-154,1140.xml,Heart size normal. Central catheter tip in upper SVC. Lungs are clear. Degenerative spur overlies the posterior inferior aspect one of the mid thoracic vertebral bodies.,
+154,1140.xml,Heart size normal. Central catheter tip in upper SVC. Lungs are clear. Degenerative spur overlies the posterior inferior aspect one of the mid thoracic vertebral bodies.,1
 155,1141.xml,No active disease.,0
-156,1143.xml,"There is XXXX peribronchial cuffing noted on the lateral view with fullness in the perihilar regions, more conspicuous than on the prior study. These can be manifestations of reactive airways disease. There is no lobar pneumonia. Lungs are mildly hyperinflated.",
+156,1143.xml,"There is XXXX peribronchial cuffing noted on the lateral view with fullness in the perihilar regions, more conspicuous than on the prior study. These can be manifestations of reactive airways disease. There is no lobar pneumonia. Lungs are mildly hyperinflated.",1
 157,1144.xml,No acute cardiopulmonary findings.,0
 158,1145.xml," No focal air space consolidation.  Hyperexpanded lungs, suggestive of emphysema.",1
 159,1146.xml,No acute abnormality.,0
@@ -180,7 +180,7 @@
 178,1164.xml,"Borderline heart size, improved mediastinal widening. No focal alveolar consolidation, no definite pleural effusion seen. Mild hypoventilation, bronchovascular crowding without typical findings of pulmonary edema.",1
 179,1165.xml,"No acute or active cardiac, pulmonary or pleural disease.",0
 180,1166.xml,"Low lung volumes with streaky bibasilar opacities, XXXX subsegmental atelectasis over infiltrate.",1
-181,1167.xml," No focal airspace consolidation. 2. Hyperexpanded lungs, suggestive of emphysema. 3. Lingular subsegmental atelectasis or scarring.",
+181,1167.xml," No focal airspace consolidation. 2. Hyperexpanded lungs, suggestive of emphysema. 3. Lingular subsegmental atelectasis or scarring.",1
 182,1168.xml,No active disease.,0
 183,1169.xml, Vague nodular opacity near the anterior right first rib costicartilage junction. This may be calcification.  Minimal streaky atelectasis in the right lung base.,1
 184,117.xml,"Comparison XXXX, XXXX. No suspicious appearing lung nodules. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified. Stable chest.",0
@@ -217,8 +217,8 @@
 215,1199.xml,No radiographic evidence of active cardiopulmonary disease.,0
 216,12.xml,No acute cardiopulmonary abnormality.,0
 217,120.xml,Low lung volumes bilaterally with central bronchovascular crowding without focal cardiopulmonary disease. .,1
-218,1200.xml,Small right juxtahilar opacity may represent infiltrate in the setting of XXXX. Followup chest x-XXXX is recommended at an appropriate interval following treatment to document XXXX.,
-219,1201.xml,"Apical lordotic frontal projection. Moderate enlargement of the cardiac silhouette with fullness of the left atrial appendage and XXXX pulmonary outflow. Mild aortic calcifications. Hilar calcifications suggest a previous granulomatous process. XXXX opacities in the lingula may be compatible scarring or subsegmental atelectasis. No focal alveolar consolidation, no definite pleural effusion seen. Chronic appearing irregular interstitial markings without typical findings of pulmonary edema.",
+218,1200.xml,Small right juxtahilar opacity may represent infiltrate in the setting of XXXX. Followup chest x-XXXX is recommended at an appropriate interval following treatment to document XXXX.,1
+219,1201.xml,"Apical lordotic frontal projection. Moderate enlargement of the cardiac silhouette with fullness of the left atrial appendage and XXXX pulmonary outflow. Mild aortic calcifications. Hilar calcifications suggest a previous granulomatous process. XXXX opacities in the lingula may be compatible scarring or subsegmental atelectasis. No focal alveolar consolidation, no definite pleural effusion seen. Chronic appearing irregular interstitial markings without typical findings of pulmonary edema.",1
 220,1202.xml,Cardiomegaly and pulmonary venous hypertension.,1
 221,1203.xml,XXXX left upper lobe infiltrate.,1
 222,1204.xml,No acute cardiopulmonary disease.,0
@@ -233,62 +233,62 @@
 231,1212.xml,No acute disease.,0
 232,1213.xml,"No acute or active cardiac, pulmonary or pleural disease.",0
 233,1214.xml,Focal area of XXXX scarring or atelectasis within the lingula. No acute pulmonary process.,1
-234,1215.xml,No acute pulmonary abnormality.,
-235,1216.xml,No acute XXXX related findings. Please note that nondisplaced fractures may not be demonstrated.,
-236,1217.xml,No acute infiltrate.,
-237,1218.xml,No acute cardiopulmonary abnormality. .,
+234,1215.xml,No acute pulmonary abnormality.,0
+235,1216.xml,No acute XXXX related findings. Please note that nondisplaced fractures may not be demonstrated.,0
+236,1217.xml,No acute infiltrate.,0
+237,1218.xml,No acute cardiopulmonary abnormality. .,0
 238,1219.xml,No acute cardiopulmonary abnormality.,0
-239,122.xml,"No comparison chest x-XXXX. Minimal lingular scarring. Overall, Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.",
-240,1220.xml,Changes of chronic emphysematous lung disease without acute cardiopulmonary abnormality identified.,
+239,122.xml,"No comparison chest x-XXXX. Minimal lingular scarring. Overall, Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.",0
+240,1220.xml,Changes of chronic emphysematous lung disease without acute cardiopulmonary abnormality identified.,1
 241,1221.xml,No acute cardiopulmonary abnormality.,0
 242,1222.xml,No active disease.,0
 243,1223.xml,No evidence of active disease.,0
 244,1224.xml,No active disease.,0
-245,1225.xml,No acute abnormality identified.,
-246,1226.xml,Right lower lobe pneumonia.,
-247,1227.xml,1. ICD XXXX tip overlying the right ventricle. 2. No acute cardiopulmonary abnormality.,
-248,1228.xml,Three total images. Heart size is normal. Tortuous aorta including mildly ectatic appearing ascending aorta. No comparisons are available to evaluate stability. Normal pulmonary vascularity. No focal infiltrates or pleural effusions. No pneumothorax.,
-249,1229.xml,COPD. No acute pulmonary disease.,
-250,123.xml,Asymmetric right medial apical opacity which may be attributable to the sternoclavicular joint. Upper lobe airspace disease or pulmonary nodule is not entirely excluded. Recommend XXXX XXXX chest and apical lordotic view of the chest to further evaluate. Findings and recommendations were discussed XXXX. XXXX in the XXXX department at XXXX a.m. XXXX/XXXX.,
-251,1230.xml,Left lung clear. Slight cardiomegaly. Right effusion. Right lower lobe infiltrate. Two air-fluid levels in the right hemithorax most XXXX representing hydropneumothorax. This radiographic finding could also represent empyema with a bronchopleural fistula. CT scan with IV contrast may be helpful.,
-252,1231.xml,No acute disease.,
-253,1232.xml,Emphysema without acute cardiopulmonary findings.,
-254,1233.xml,Cardiomegaly without heart failure. Minimal XXXX left basilar scarring/atelectasis.,
-255,1234.xml,1. Cardiomegaly. 2. Minimal left midlung atelectasis. 3. Blunting of left costophrenic XXXX. This could indicate a small amount of pleural fluid versus pleural-parenchymal scarring.,
-256,1235.xml,Hypoinflation with lingular focal atelectasis.,
-257,1236.xml,No acute cardiopulmonary findings. .,
-258,1237.xml,1. Clear lungs. No radiographic evidence of active TB.,
-259,1238.xml,1. No evidence of active disease.,
-260,1239.xml,Heart size normal and lungs are clear. No edema or pneumonia. No effusion,
-261,124.xml,"Large left pleural effusion with minimal residual left lung aeration. Small right pleural effusion. Right lung bronchovascular crowding and indistinct vascular margination which may be secondary to crowding, infiltrates or pulmonary edema. Limited assessment of heart size due to obscured heart XXXX.",
-262,1240.xml,"1. Stable left lung consolidation, possibly infectious pneumonia and/or aspiration. Recommend followup radiographs after treatment to ensure complete resolution. 2. Stable mild residual medial right basilar airspace disease.",
+245,1225.xml,No acute abnormality identified.,0
+246,1226.xml,Right lower lobe pneumonia.,1
+247,1227.xml,1. ICD XXXX tip overlying the right ventricle. 2. No acute cardiopulmonary abnormality.,0
+248,1228.xml,Three total images. Heart size is normal. Tortuous aorta including mildly ectatic appearing ascending aorta. No comparisons are available to evaluate stability. Normal pulmonary vascularity. No focal infiltrates or pleural effusions. No pneumothorax.,0
+249,1229.xml,COPD. No acute pulmonary disease.,1
+250,123.xml,Asymmetric right medial apical opacity which may be attributable to the sternoclavicular joint. Upper lobe airspace disease or pulmonary nodule is not entirely excluded. Recommend XXXX XXXX chest and apical lordotic view of the chest to further evaluate. Findings and recommendations were discussed XXXX. XXXX in the XXXX department at XXXX a.m. XXXX/XXXX.,1
+251,1230.xml,Left lung clear. Slight cardiomegaly. Right effusion. Right lower lobe infiltrate. Two air-fluid levels in the right hemithorax most XXXX representing hydropneumothorax. This radiographic finding could also represent empyema with a bronchopleural fistula. CT scan with IV contrast may be helpful.,1
+252,1231.xml,No acute disease.,0
+253,1232.xml,Emphysema without acute cardiopulmonary findings.,1
+254,1233.xml,Cardiomegaly without heart failure. Minimal XXXX left basilar scarring/atelectasis.,1
+255,1234.xml,1. Cardiomegaly. 2. Minimal left midlung atelectasis. 3. Blunting of left costophrenic XXXX. This could indicate a small amount of pleural fluid versus pleural-parenchymal scarring.,1
+256,1235.xml,Hypoinflation with lingular focal atelectasis.,1
+257,1236.xml,No acute cardiopulmonary findings. .,0
+258,1237.xml,1. Clear lungs. No radiographic evidence of active TB.,0
+259,1238.xml,1. No evidence of active disease.,0
+260,1239.xml,Heart size normal and lungs are clear. No edema or pneumonia. No effusion,0
+261,124.xml,"Large left pleural effusion with minimal residual left lung aeration. Small right pleural effusion. Right lung bronchovascular crowding and indistinct vascular margination which may be secondary to crowding, infiltrates or pulmonary edema. Limited assessment of heart size due to obscured heart XXXX.",1
+262,1240.xml,"1. Stable left lung consolidation, possibly infectious pneumonia and/or aspiration. Recommend followup radiographs after treatment to ensure complete resolution. 2. Stable mild residual medial right basilar airspace disease.",1
 263,1241.xml,No evidence of active disease.,0
-264,1242.xml,Chronic parenchymal changes XXXX reflecting sequela of patient's known sarcoidosis. No acute disease.,
-265,1243.xml,1. Left pleural effusion with adjacent atelectasis. XXXX right effusion is also present. 2. Cardiomegaly without overt edema.,
-266,1244.xml,1. Bibasilar airspace disease left greater than right. 2. Stable postsurgical changes with colonic interposition overlying the mediastinum.,
-267,1245.xml,"Cardiomegaly, aortic ectasia/tortuosity, cardiomediastinal silhouette appears similar to prior. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",
-268,1246.xml,No acute findings.,
-269,1247.xml,No acute cardiopulmonary findings. .,
-270,1248.xml,No acute cardiopulmonary findings.,
-271,1249.xml,No radiographic evidence of acute cardiopulmonary disease.,
-272,125.xml,No acute disease.,
-273,1250.xml,No acute cardiopulmonary abnormality..,
+264,1242.xml,Chronic parenchymal changes XXXX reflecting sequela of patient's known sarcoidosis. No acute disease.,1
+265,1243.xml,1. Left pleural effusion with adjacent atelectasis. XXXX right effusion is also present. 2. Cardiomegaly without overt edema.,1
+266,1244.xml,1. Bibasilar airspace disease left greater than right. 2. Stable postsurgical changes with colonic interposition overlying the mediastinum.,1
+267,1245.xml,"Cardiomegaly, aortic ectasia/tortuosity, cardiomediastinal silhouette appears similar to prior. No focal alveolar consolidation, no definite pleural effusion seen. No typical findings of pulmonary edema.",0
+268,1246.xml,No acute findings.,0
+269,1247.xml,No acute cardiopulmonary findings. .,0
+270,1248.xml,No acute cardiopulmonary findings.,0
+271,1249.xml,No radiographic evidence of acute cardiopulmonary disease.,0
+272,125.xml,No acute disease.,0
+273,1250.xml,No acute cardiopulmonary abnormality..,0
 274,1251.xml,No active disease.,0
-275,1252.xml,"Heart size is upper limits normal and lungs are clear. No pneumonia, edema, or effusions.",
+275,1252.xml,"Heart size is upper limits normal and lungs are clear. No pneumonia, edema, or effusions.",0
 276,1253.xml,No evidence of active disease.,0
-277,1254.xml,No acute cardiopulmonary findings. .,
-278,1255.xml,1. XXXX XXXX right-sided chest tube tip projects outside the thoracic cavity. No residual pneumothorax. 2. Small residual pneumoperitoneum consistent with known colonic perforation. .,
+277,1254.xml,No acute cardiopulmonary findings. .,0
+278,1255.xml,1. XXXX XXXX right-sided chest tube tip projects outside the thoracic cavity. No residual pneumothorax. 2. Small residual pneumoperitoneum consistent with known colonic perforation. .,1
 279,1256.xml,No acute cardiopulmonary disease.,0
-280,1257.xml,1. Right basilar opacities favored to represent atelectasis. 2. Stigmata of XXXX cell disease. 3. Cholelithiasis.,
+280,1257.xml,1. Right basilar opacities favored to represent atelectasis. 2. Stigmata of XXXX cell disease. 3. Cholelithiasis.,1
 281,1258.xml,No active disease.,0
-282,1259.xml,No acute disease.,
-283,126.xml,Vague opacity at the left lung base which appears to be within the left lower lobe. This may represent resolving or developing pneumonia given the patient's history.,
-284,1260.xml,The heart size and cardiomediastinal silhouette are within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.,
-285,1261.xml,Mild cardiomegaly.,
+282,1259.xml,No acute disease.,0
+283,126.xml,Vague opacity at the left lung base which appears to be within the left lower lobe. This may represent resolving or developing pneumonia given the patient's history.,1
+284,1260.xml,The heart size and cardiomediastinal silhouette are within normal limits. Pulmonary vasculature appears normal. There is no focal air space consolidation. No pleural effusion or pneumothorax.,0
+285,1261.xml,Mild cardiomegaly.,1
 286,1262.xml,No acute cardiopulmonary disease.,0
-287,1263.xml,No acute findings.,
-288,1264.xml,No acute cardiopulmonary findings. .,
-289,1265.xml,"Circumscribed structure in the AP XXXX could represent lymphadenopathy, mass, pulmonary arterial abnormality XXXX as aneurysm, or enlargement of the left atrial appendage. As prior chest x-XXXX are not available online at this XXXX should be considered.",
+287,1263.xml,No acute findings.,0
+288,1264.xml,No acute cardiopulmonary findings. .,0
+289,1265.xml,"Circumscribed structure in the AP XXXX could represent lymphadenopathy, mass, pulmonary arterial abnormality XXXX as aneurysm, or enlargement of the left atrial appendage. As prior chest x-XXXX are not available online at this XXXX should be considered.",1
 290,1266.xml,No acute cardiopulmonary abnormality.,0
 291,1267.xml,No acute cardiopulmonary abnormality.,0
 292,1268.xml,No acute cardiopulmonary disease. .,0
@@ -297,111 +297,111 @@
 295,1270.xml,No acute cardiopulmonary abnormality identified.,0
 296,1271.xml,No acute cardiopulmonary disease.,0
 297,1272.xml,No evidence of active disease.,0
-298,1273.xml,1. Stable mild cardiomegaly. 2. Hyperexpanded but clear lungs.,
-299,1274.xml,No acute cardiopulmonary disease. .,
-300,1275.xml,"Age-indeterminate contour deformity of the right lateral 8th rib, if findings localize to this region, suspect acute fracture. Very low lung volumes, central and basilar opacities most suggestive of atelectasis. Heart size near top normal limits for technique, left infraclavicular cardiac XXXX generator with right atrial and right ventricular leads, sternotomy XXXX, CABG clips. Evaluation for pleural fluid limited but no large pleural effusion seen. No pleural line of pneumothorax.",
+298,1273.xml,1. Stable mild cardiomegaly. 2. Hyperexpanded but clear lungs.,0
+299,1274.xml,No acute cardiopulmonary disease. .,0
+300,1275.xml,"Age-indeterminate contour deformity of the right lateral 8th rib, if findings localize to this region, suspect acute fracture. Very low lung volumes, central and basilar opacities most suggestive of atelectasis. Heart size near top normal limits for technique, left infraclavicular cardiac XXXX generator with right atrial and right ventricular leads, sternotomy XXXX, CABG clips. Evaluation for pleural fluid limited but no large pleural effusion seen. No pleural line of pneumothorax.",1
 301,1276.xml,No acute cardiopulmonary abnormality.,0
 302,1277.xml,No acute cardiopulmonary disease.,0
-303,1278.xml,No acute disease.,
-304,1279.xml,No acute cardiopulmonary findings.,
-305,128.xml,1. Overall stable appearance of the chest suggesting pulmonary fibrosis.,
-306,1280.xml,No acute abnormality.,
-307,1281.xml,No acute cardiopulmonary process. .,
-308,1282.xml,"Mild, nonconsolidating right lower lobe airspace disease. This may represent an early pneumonia.",
+303,1278.xml,No acute disease.,0
+304,1279.xml,No acute cardiopulmonary findings.,0
+305,128.xml,1. Overall stable appearance of the chest suggesting pulmonary fibrosis.,1
+306,1280.xml,No acute abnormality.,0
+307,1281.xml,No acute cardiopulmonary process. .,0
+308,1282.xml,"Mild, nonconsolidating right lower lobe airspace disease. This may represent an early pneumonia.",1
 309,1283.xml,No acute cardiopulmonary disease.,0
-310,1284.xml,1. Cardiac XXXX in stable position. 2. Increase in right and decrease in left basilar atelectasis.,
-311,1285.xml,1. Low lung volumes with mild crowding.,
-312,1286.xml,Stable slight cardiomegaly. Sternotomy. Lungs clear. No destructive lesions of the ribs. No masses or nodules. Stable resection of distal left clavicle. No XXXX fractures of the thoracic spine. Aortic calcification.,
-313,1287.xml,Clear lungs without suspicious pulmonary nodules or masses.,
-314,1288.xml,"Minimal XXXX patchy airspace disease within the lingula, may reflect atelectasis or infiltrate.",
-315,1289.xml,"Bilateral large pleural effusion, possibly from pleuritis or sympathetic from the known pancreatitis.",
-316,129.xml,1. No acute radiographic cardiopulmonary process.,
-317,1290.xml,1. No acute cardiopulmonary disease. 2. Calcified left paraesophageal versus intrapulmonary lymph node. 3. Moderate hiatus hernia.,
-318,1291.xml,No acute preoperative findings.,
-319,1292.xml,"1. Borderline enlarged heart. 2. Tortuous/ectatic thoracic aorta. 3. Fracture of the distal right clavicle, better seen on today's radiograph of the shoulder.",
+310,1284.xml,1. Cardiac XXXX in stable position. 2. Increase in right and decrease in left basilar atelectasis.,1
+311,1285.xml,1. Low lung volumes with mild crowding.,0
+312,1286.xml,Stable slight cardiomegaly. Sternotomy. Lungs clear. No destructive lesions of the ribs. No masses or nodules. Stable resection of distal left clavicle. No XXXX fractures of the thoracic spine. Aortic calcification.,1
+313,1287.xml,Clear lungs without suspicious pulmonary nodules or masses.,0
+314,1288.xml,"Minimal XXXX patchy airspace disease within the lingula, may reflect atelectasis or infiltrate.",1
+315,1289.xml,"Bilateral large pleural effusion, possibly from pleuritis or sympathetic from the known pancreatitis.",1
+316,129.xml,1. No acute radiographic cardiopulmonary process.,0
+317,1290.xml,1. No acute cardiopulmonary disease. 2. Calcified left paraesophageal versus intrapulmonary lymph node. 3. Moderate hiatus hernia.,1
+318,1291.xml,No acute preoperative findings.,0
+319,1292.xml,"1. Borderline enlarged heart. 2. Tortuous/ectatic thoracic aorta. 3. Fracture of the distal right clavicle, better seen on today's radiograph of the shoulder.",1
 320,1294.xml,No active disease.,0
-321,1295.xml,1. No evidence of active disease.,
-322,1296.xml,No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,
-323,1299.xml,"Ill-defined opacity projects in right suprahilar region on PA view,, which XXXX corresponds with anterior chest wall mass seen on XXXX scan from XXXX, XXXX. Lungs per XXXX appear well expanded and clear. No pleural effusions. Unremarkable mediastinal contour.",
-324,13.xml,Borderline enlargement of the cardiac silhouette without acute pulmonary disease.,
-325,130.xml,Clear lungs. XXXX deformities within the midthoracic spine. .,
+321,1295.xml,1. No evidence of active disease.,0
+322,1296.xml,No comparison chest x-XXXX. Well-expanded and clear lungs. Mediastinal contour within normal limits. No acute cardiopulmonary abnormality identified.,0
+323,1299.xml,"Ill-defined opacity projects in right suprahilar region on PA view,, which XXXX corresponds with anterior chest wall mass seen on XXXX scan from XXXX, XXXX. Lungs per XXXX appear well expanded and clear. No pleural effusions. Unremarkable mediastinal contour.",1
+324,13.xml,Borderline enlargement of the cardiac silhouette without acute pulmonary disease.,0
+325,130.xml,Clear lungs. XXXX deformities within the midthoracic spine. .,1
 326,1300.xml,No acute cardiopulmonary disease.,0
-327,1301.xml,No acute findings,
-328,1302.xml,Stable appearance of the chest without acute abnormality.,
-329,1303.xml,"XXXX right upper lobe mass, suspicious for neoplasm. CT of chest abdomen and head would be helpful for further evaluation.",
-330,1304.xml,Normal chest,
+327,1301.xml,No acute findings,0
+328,1302.xml,Stable appearance of the chest without acute abnormality.,0
+329,1303.xml,"XXXX right upper lobe mass, suspicious for neoplasm. CT of chest abdomen and head would be helpful for further evaluation.",1
+330,1304.xml,Normal chest,0
 331,1305.xml,No active disease.,0
-332,1306.xml,No evidence of acute cardiopulmonary process or significant interval change.,
-333,1307.xml,1.Lucency in the left lateral clavicle near the acromioclavicular joint. Metastatic disease is possible. 2. Clear lungs,
-334,1308.xml,No acute cardiopulmonary process. .,
-335,1309.xml,No acute cardiopulmonary findings. .,
-336,131.xml,No acute pulmonary disease.,
+332,1306.xml,No evidence of acute cardiopulmonary process or significant interval change.,0
+333,1307.xml,1.Lucency in the left lateral clavicle near the acromioclavicular joint. Metastatic disease is possible. 2. Clear lungs,1
+334,1308.xml,No acute cardiopulmonary process. .,0
+335,1309.xml,No acute cardiopulmonary findings. .,0
+336,131.xml,No acute pulmonary disease.,0
 337,1310.xml,No acute cardiopulmonary abnormality.,0
-338,1311.xml,"1. Borderline enlargement of cardiac silhouette, otherwise no acute cardiopulmonary abnormality. No evidence for active TB.",
-339,1312.xml,Heart size upper limits normal. Clear lungs. No pneumonia or effusions.,
-340,1313.xml,"Small bilateral pleural effusions with bibasilar atelectasis and/or airspace disease, left greater than right.",
+338,1311.xml,"1. Borderline enlargement of cardiac silhouette, otherwise no acute cardiopulmonary abnormality. No evidence for active TB.",0
+339,1312.xml,Heart size upper limits normal. Clear lungs. No pneumonia or effusions.,0
+340,1313.xml,"Small bilateral pleural effusions with bibasilar atelectasis and/or airspace disease, left greater than right.",1
 341,1314.xml,No acute cardiopulmonary abnormality.,0
-342,1315.xml,Normal exam.,
-343,1316.xml,Heart size normal. Lungs clear.,
-344,1317.xml,"Minimal atelectasis left base, no acute abnormality.",
+342,1315.xml,Normal exam.,0
+343,1316.xml,Heart size normal. Lungs clear.,0
+344,1317.xml,"Minimal atelectasis left base, no acute abnormality.",1
 345,1318.xml,No active disease.,0
 346,1319.xml,No evidence of active disease.,0
 347,132.xml,No acute cardiopulmonary abnormality.,0
-348,1320.xml,Low lung volumes. No acute pulmonary disease.,
-349,1321.xml,Heart size is normal. Lungs are clear of pneumonia. Patient has stable interstitial fibrotic changes throughout both lungs.,
-350,1322.xml,No acute cardiopulmonary disease,
-351,1323.xml,No acute cardiopulmonary abnormalities.,
+348,1320.xml,Low lung volumes. No acute pulmonary disease.,0
+349,1321.xml,Heart size is normal. Lungs are clear of pneumonia. Patient has stable interstitial fibrotic changes throughout both lungs.,1
+350,1322.xml,No acute cardiopulmonary disease,0
+351,1323.xml,No acute cardiopulmonary abnormalities.,0
 352,1324.xml,No acute cardiopulmonary abnormality.,0
-353,1325.xml,Heart size is mildly enlarged. Mediastinal silhouette appears stable with coarsely calcified and tortuous aorta. There is no edema. Scattered lung calcifications from old granulomatous disease. No XXXX consolidation or pleural effusion. No pneumothorax. Stable left lateral pleural thickening or scarring.,
-354,1326.xml,"Stable right-sided subclavian central venous catheter with tip approximating the SVC. Stable right suprahilar opacity, compatible with history of right upper lobe mass. Elevation of the right hemidiaphragm. Right-sided pneumothorax noted measuring approximately 1.8 cm from the the right apex. Stable postsurgical changes left axilla. Degenerative changes thoracic spine. Stable streaky opacities right base. XXXX opacity right midlung, question fluid level, incompletely evaluated, no recent XXXX for comparison.",
-355,1327.xml,No acute cardiopulmonary finding.,
+353,1325.xml,Heart size is mildly enlarged. Mediastinal silhouette appears stable with coarsely calcified and tortuous aorta. There is no edema. Scattered lung calcifications from old granulomatous disease. No XXXX consolidation or pleural effusion. No pneumothorax. Stable left lateral pleural thickening or scarring.,1
+354,1326.xml,"Stable right-sided subclavian central venous catheter with tip approximating the SVC. Stable right suprahilar opacity, compatible with history of right upper lobe mass. Elevation of the right hemidiaphragm. Right-sided pneumothorax noted measuring approximately 1.8 cm from the the right apex. Stable postsurgical changes left axilla. Degenerative changes thoracic spine. Stable streaky opacities right base. XXXX opacity right midlung, question fluid level, incompletely evaluated, no recent XXXX for comparison.",1
+355,1327.xml,No acute cardiopulmonary finding.,0
 356,1328.xml,No acute cardiopulmonary disease.,0
-357,1329.xml,At XXXX 2 right lung pulmonary nodules concerning for<BR>metastatic disease,
-358,133.xml,No acute disease.,
-359,1330.xml,Negative for acute cardiopulmonary findings.,
-360,1331.xml,Low lung volumes with bibasilar opacities XXXX bronchovascular crowding. No acute infiltrate.,
-361,1332.xml,"Heart size is upper normal. Tortuous and calcified aorta. No edema. Bandlike left base and lingular opacities XXXX scarring or atelectasis. No lobar consolidation, pleural effusion or pneumothorax.",
-362,1333.xml,1. No acute cardiopulmonary abnormality.,
+357,1329.xml,At XXXX 2 right lung pulmonary nodules concerning for<BR>metastatic disease,1
+358,133.xml,No acute disease.,0
+359,1330.xml,Negative for acute cardiopulmonary findings.,0
+360,1331.xml,Low lung volumes with bibasilar opacities XXXX bronchovascular crowding. No acute infiltrate.,1
+361,1332.xml,"Heart size is upper normal. Tortuous and calcified aorta. No edema. Bandlike left base and lingular opacities XXXX scarring or atelectasis. No lobar consolidation, pleural effusion or pneumothorax.",0
+362,1333.xml,1. No acute cardiopulmonary abnormality.,0
 363,1334.xml,No acute cardiopulmonary abnormality.,0
-364,1335.xml,1. No acute pulmonary disease.,
-365,1336.xml,Stable cardiomegaly without acute cardiopulmonary disease.,
-366,1337.xml,1. Low lung volumes 2. Exam limited on lateral view by superimposed soft tissue and bony structures of the arm 3. Lungs appear grossly clear. No evidence of pneumonia. 4. Heart and pulmonary XXXX appear normal 5. Pleural spaces are clear 6. Mediastinal contours appear normal 7. No acute cardiopulmonary disease on this exam,
+364,1335.xml,1. No acute pulmonary disease.,0
+365,1336.xml,Stable cardiomegaly without acute cardiopulmonary disease.,1
+366,1337.xml,1. Low lung volumes 2. Exam limited on lateral view by superimposed soft tissue and bony structures of the arm 3. Lungs appear grossly clear. No evidence of pneumonia. 4. Heart and pulmonary XXXX appear normal 5. Pleural spaces are clear 6. Mediastinal contours appear normal 7. No acute cardiopulmonary disease on this exam,0
 367,1338.xml,No active disease.,0
-368,1339.xml,1. Small 3.3 mm right-sided pneumothorax.,
+368,1339.xml,1. Small 3.3 mm right-sided pneumothorax.,1
 369,134.xml,No active disease.,0
-370,1340.xml,Negative chest. .,
+370,1340.xml,Negative chest. .,0
 371,1341.xml,No evidence of active disease.,0
-372,1342.xml,"Mildly hyperinflated lungs, air trapping versus inspiratory XXXX.",
-373,1343.xml,1. Mild cardiomegaly and moderate hiatal hernia.,
+372,1342.xml,"Mildly hyperinflated lungs, air trapping versus inspiratory XXXX.",0
+373,1343.xml,1. Mild cardiomegaly and moderate hiatal hernia.,1
 374,1344.xml,No acute cardiopulmonary abnormality.,0
-375,1345.xml,Normal chest,
-376,1346.xml,1. Right chest XXXX catheter tip at cavoatrial junction. 2. Grossly clear lungs.,
-377,1347.xml,Negative for acute abnormality.,
-378,1348.xml,"1. Suspected fractures of the left anterior 6th and 7th ribs, of uncertain acuity. Correlate with XXXX tenderness. 2. Low lung volumes with mild basilar atelectasis, left greater than right. .",
-379,1349.xml,1. No evidence of active disease.,
-380,135.xml,Clear lungs,
-381,1350.xml,Hand 1. Minimally displaced fracture through the XXXX of the scaphoid. 2. Lucency through the base of the fourth metacarpal. This may represent a vascular XXXX or if XXXX tenderness exists over this location then fracture is more XXXX. Chest 1. No acute cardiopulmonary findings. .,
-382,1351.xml,"Heart size is normal. Stable dilated slightly tortuous aorta. Lungs are clear. No edema or effusions. No nodules, masses, or adenopathy.",
-383,1352.xml,No acute cardiopulmonary findings.,
-384,1353.xml,Multifocal right-sided pneumonia.,
+375,1345.xml,Normal chest,0
+376,1346.xml,1. Right chest XXXX catheter tip at cavoatrial junction. 2. Grossly clear lungs.,0
+377,1347.xml,Negative for acute abnormality.,0
+378,1348.xml,"1. Suspected fractures of the left anterior 6th and 7th ribs, of uncertain acuity. Correlate with XXXX tenderness. 2. Low lung volumes with mild basilar atelectasis, left greater than right. .",1
+379,1349.xml,1. No evidence of active disease.,0
+380,135.xml,Clear lungs,0
+381,1350.xml,Hand 1. Minimally displaced fracture through the XXXX of the scaphoid. 2. Lucency through the base of the fourth metacarpal. This may represent a vascular XXXX or if XXXX tenderness exists over this location then fracture is more XXXX. Chest 1. No acute cardiopulmonary findings. .,0
+382,1351.xml,"Heart size is normal. Stable dilated slightly tortuous aorta. Lungs are clear. No edema or effusions. No nodules, masses, or adenopathy.",0
+383,1352.xml,No acute cardiopulmonary findings.,0
+384,1353.xml,Multifocal right-sided pneumonia.,1
 385,1354.xml,No acute cardiopulmonary disease.,0
-386,1355.xml,"Low lung volumes with bronchovascular crowding, bibasilar opacities XXXX due at XXXX in part to atelectasis, infiltrates, pulmonary edema difficult to entirely exclude.",
-387,1356.xml,No acute cardiothoracic abnormality.,
-388,1357.xml,Stable cardiomegaly without acute cardiopulmonary abnormality..,
-389,1358.xml,No acute cardiopulmonary findings.,
-390,1359.xml,No acute cardiopulmonary findings.,
-391,136.xml,Normal chest,
-392,1360.xml,Bibasilar atelectasis. No pneumonia. .,
-393,1361.xml,"Mild cardiomegaly. Tortuous aorta. No XXXX consolidation, pleural effusion or pneumothorax. Stable right paratracheal opacity. XXXX correlated XXXX of the chest XXXX, XXXX this represents vascular shadows. Mild right apex curvature of the lower thoracic spine. Degenerative endplate spurring mid and lower thoracic spine with minimal grade 1 anterolisthesis of a lower thoracic vertebral level, XXXX T10 on T11.",
-394,1362.xml,"Marked elevation left diaphragm with atelectasis in the left base. Mild atelectasis in the right base. Stable or line cardiac enlargement with atherosclerotic aorta. Obscured left heart XXXX. Kyphotic degenerated thoracic spine with osteopenia multilevel XXXX deformities, poorly defined due to the extensive osteopenia.",
-395,1363.xml,"Clear lungs, no focal airspace consolidation.",
-396,1364.xml,No acute cardiopulmonary findings.,
-397,1365.xml,No acute cardiopulmonary findings,
-398,1366.xml,No acute cardiopulmonary finding.,
-399,1367.xml,No acute cardiopulmonary findings.,
-400,1368.xml,No acute disease.,
-401,1369.xml,Unremarkable examination of the chest.,
-402,137.xml,Some XXXX opacities left mid lung compatible with focal subsegmental atelectasis/scarring. No acute airspace disease or effusions. Heart appears prominent. Some tortuosity thoracic aorta. Midline retrocardiac opacity suggestive of a small hiatal hernia.,
+386,1355.xml,"Low lung volumes with bronchovascular crowding, bibasilar opacities XXXX due at XXXX in part to atelectasis, infiltrates, pulmonary edema difficult to entirely exclude.",1
+387,1356.xml,No acute cardiothoracic abnormality.,0
+388,1357.xml,Stable cardiomegaly without acute cardiopulmonary abnormality..,1
+389,1358.xml,No acute cardiopulmonary findings.,0
+390,1359.xml,No acute cardiopulmonary findings.,0
+391,136.xml,Normal chest,0
+392,1360.xml,Bibasilar atelectasis. No pneumonia. .,1
+393,1361.xml,"Mild cardiomegaly. Tortuous aorta. No XXXX consolidation, pleural effusion or pneumothorax. Stable right paratracheal opacity. XXXX correlated XXXX of the chest XXXX, XXXX this represents vascular shadows. Mild right apex curvature of the lower thoracic spine. Degenerative endplate spurring mid and lower thoracic spine with minimal grade 1 anterolisthesis of a lower thoracic vertebral level, XXXX T10 on T11.",1
+394,1362.xml,"Marked elevation left diaphragm with atelectasis in the left base. Mild atelectasis in the right base. Stable or line cardiac enlargement with atherosclerotic aorta. Obscured left heart XXXX. Kyphotic degenerated thoracic spine with osteopenia multilevel XXXX deformities, poorly defined due to the extensive osteopenia.",1
+395,1363.xml,"Clear lungs, no focal airspace consolidation.",0
+396,1364.xml,No acute cardiopulmonary findings.,0
+397,1365.xml,No acute cardiopulmonary findings,0
+398,1366.xml,No acute cardiopulmonary finding.,0
+399,1367.xml,No acute cardiopulmonary findings.,0
+400,1368.xml,No acute disease.,0
+401,1369.xml,Unremarkable examination of the chest.,0
+402,137.xml,Some XXXX opacities left mid lung compatible with focal subsegmental atelectasis/scarring. No acute airspace disease or effusions. Heart appears prominent. Some tortuosity thoracic aorta. Midline retrocardiac opacity suggestive of a small hiatal hernia.,1
 403,1370.xml,"Possible infiltrates in the right lung and left base. Consider CT for further evaluation, if clinically indicated.",1
 404,1371.xml,"Heart size is normal. Mildly tortuous aorta, otherwise mediastinal silhouette and pulmonary vascularity are within normal limits. No focal airspace consolidation of pneumonia, pleural effusion or pneumothorax. Couple of XXXX nodules in the left base are XXXX calcified sequela of old granulomatous disease. No pleural effusion or pneumothorax.",0
 405,1372.xml," Mild bibasilar airspace disease, probably atelectasis.",1
