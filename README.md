@@ -1,6 +1,6 @@
 # AIPI-540-NLP-Team2-Project
 
-# Chest X-ray: abnormal or normal, Am innovative approach using NLP
+# Chest X-ray: abnormal or normal, An Innovative approach using NLP
 
 #### Category: Health, wellness and fitness
 #### Type: Natural Language Processing
