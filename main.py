@@ -10,7 +10,7 @@ import nltk
 import warnings
 from sklearn.metrics import recall_score
 
-/make_dataset
+from scripts/make_dataset import make_dataset
 from scripts/text_preprocessing import tokenize
 from scripts/model import train_model
 from scripts/create_features import build_features
