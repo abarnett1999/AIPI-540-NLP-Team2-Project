@@ -1,9 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 import warnings
-
-
-nltk.download('omw-1.4')
-nltk.download('wordnet')
 warnings.filterwarnings('ignore')
 
 """## **Create features**"""

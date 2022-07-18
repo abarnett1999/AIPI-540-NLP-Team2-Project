@@ -7,7 +7,7 @@ warnings.filterwarnings('ignore')
 def make_dataset():
 
     # Load data from csv to pandas dataframe
-    data_df = pd.read_csv('labeled_data.csv')
+    data_df = pd.read_csv('data/labeled_data.csv')
 
     # Clean data up a bit more
     data_df = data_df[['filename', 'impression', 'label']]

@@ -7,10 +7,8 @@ from sklearn.metrics import recall_score
 import sys
 
 # adding Folder_2 to the system path
-from scripts import make_dataset, model, text_preprocessing, create_features
-
-sys.path.insert(0, 'scripts')
-
+sys.path.insert(0, 'myscripts')
+from myscripts import make_dataset, model, text_preprocessing, create_features
 
 nltk.download('omw-1.4')
 nltk.download('wordnet')

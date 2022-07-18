@@ -1,12 +1,12 @@
 import string
 import nltk
-from nltk.stem import WordNetLemmatizer
 import spacy
+from nltk.stem import WordNetLemmatizer
 from spacy.lang.en.stop_words import STOP_WORDS
 from spacy.lang.en import English
 import warnings
 
-
+nlp = spacy.load('en_core_web_sm')
 nltk.download('omw-1.4')
 nltk.download('wordnet')
 warnings.filterwarnings('ignore')
