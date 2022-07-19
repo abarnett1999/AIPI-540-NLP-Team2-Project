@@ -1,51 +1,51 @@
-from tqdm import tqdm
 import nltk
 import warnings
-from sklearn.metrics import recall_score
+import streamlit as st
+import pandas as pd
+import pickle
+from tqdm import tqdm
+from sklearn.metrics import *
 
-# importing sys
-import sys
-
-# adding Folder_2 to the system path
-sys.path.insert(0, 'myscripts')
-from myscripts import make_dataset, model, text_preprocessing, create_features
+from myscripts import text_preprocessing, create_features
 
 nltk.download('omw-1.4')
 nltk.download('wordnet')
 warnings.filterwarnings('ignore')
 
-""" Get data """
-X_train, X_test, y_train, y_test = make_dataset.make_dataset()
+# Headings for Web Application
+st.title("Chest X-Rays-Normal or Abnormal")
+
+# Textbox for text user is entering
+st.subheader("Enter the text to like to analyze.")
+text = st.text_input('Enter text')  # text is stored in this variable
+
+text_list = [text]
+# Create the pandas DataFrame with column name is provided explicitly
+input_df = pd.DataFrame(text_list, columns=['impression'])
+input_df = input_df['impression']
+
+# Process the input text
+processed = input_df.apply(lambda x: text_preprocessing.tokenize(x, method='nltk'))
+
+# Load model and vectorizer
+vect = pickle.load(open('./models/vec.pkl','rb'))
+model = pickle.load(open('models/model.pkl', 'rb'))
+
+# Create features using  Count Vectorization
+model_input = vect.transform(processed)
 
 
-""" Tokenize and lemmatize the data """
-# Process the training set
-tqdm.pandas()
-X_train_processed = X_train.progress_apply(lambda x: text_preprocessing.tokenize(x, method='nltk'))
+# Use model to predict from input
+preds = model.predict(model_input)
 
-# Process the test set text
-tqdm.pandas()
-X_test_processed = X_test.progress_apply(lambda x: text_preprocessing.tokenize(x, method='nltk'))
+print('pred: ', str(preds[0]))
 
-""" Create features using  Count Vectorization """
-method = 'count'
-ngram_range = (1, 2)
-X_train, X_test = create_features.build_features(X_train_processed, X_test_processed, ngram_range, method)
+if preds[0] == 0:
+    result = 'Normal'
+else:
+    result = 'Abnormal'
 
 
-""" Train model on training set """
-logreg_model = model.train_model(X_train, y_train)
-preds = logreg_model.predict(X_train)
-acc = sum(preds == y_train) / len(y_train)
-recall = recall_score(y_train, preds)
-print('Accuracy on the training set is {:.3f}'.format(acc))
-print('Recall on the training set is {:.3f}'.format(recall))
-
-""" Evaluate model on test set """
-test_preds = logreg_model.predict(X_test)
-test_acc = sum(test_preds == y_test) / len(y_test)
-test_recall = recall_score(y_test, test_preds)
-print('Accuracy on the test set is {:.3f}'.format(test_acc))
-print('Recall on the test set is {:.3f}'.format(test_recall))
-
-
+# Display results of the NLP task
+st.header("Results")
+st.subheader(result)
