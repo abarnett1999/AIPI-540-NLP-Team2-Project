@@ -3,10 +3,8 @@ import warnings
 import streamlit as st
 import pandas as pd
 import pickle
-from tqdm import tqdm
-from sklearn.metrics import *
 
-from myscripts import text_preprocessing, create_features
+from myscripts import text_preprocessing
 
 nltk.download('omw-1.4')
 nltk.download('wordnet')
@@ -16,7 +14,7 @@ warnings.filterwarnings('ignore')
 st.title("Chest X-Rays-Normal or Abnormal")
 
 # Textbox for text user is entering
-st.subheader("Enter the text to like to analyze.")
+st.subheader("Enter the text to analyze.")
 text = st.text_input('Enter text')  # text is stored in this variable
 
 text_list = [text]
