@@ -9,7 +9,7 @@ import sys
 
 # adding Folder_2 to the system path
 sys.path.insert(0, 'myscripts')
-from myscripts import make_dataset, model, text_preprocessing, create_features
+from myscripts import make_dataset, create_model, text_preprocessing, create_features
 
 
 nltk.download('omw-1.4')
@@ -39,7 +39,7 @@ X_train = create_features.build_features(X_train_processed, ngram_range, method)
 print("-------Commencing training------")
 
 """ Train model on training set """
-logreg_model = model.create_model(X_train, y_train)
+logreg_model = create_model.create_model(X_train, y_train)
 preds = logreg_model.predict(X_train)
 acc = sum(preds == y_train) / len(y_train)
 recall = recall_score(y_train, preds)

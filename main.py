@@ -34,7 +34,6 @@ model = pickle.load(open('models/model.pkl', 'rb'))
 # Create features using  Count Vectorization
 model_input = vect.transform(processed)
 
-
 # Use model to predict from input
 preds = model.predict(model_input)
 
