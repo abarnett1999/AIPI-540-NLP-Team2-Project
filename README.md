@@ -16,14 +16,36 @@
 ### Links to papers
 -https://rohansoni-jssaten2019.medium.com/indiana-university-chest-x-rays-automated-report-generation-38f928e6bfc2
 
-## Use Streamlit to classify an image
+## Project Structure
+
+### main.py
+Evaluate text input from streamlit app on the model and display results.
+
+### model.py
+Train model based on features created by count vectorization model. 
+
+### data
+- labeled_data.csv - impressions extracted from medical report xml files, labeled with 0/1
+- xml_data - raw data, medical report xml files
+
+### models
+- model.pkl - trained logistic regression model
+- vec.pkl - trained Count Vectorization model
+
+### myscripts
+- make_dataset.py - clean data and split into training/test sets
+- text_preprocessing.py - tokenize and lemmatize text
+- create_features.py - create features using count vectorization/TFIDF
+- create_model.py - create logistic regression model
+
+## Instructions to run Streamlit app. 
+### Use Streamlit to classify an impression from medical report.
 1. Install the requirements needed to use Streamlit
 ```
 pip install -r requirements.txt
 ```
 2. Start the Streamlit app
 ```
-streamlit run main.py
+make run
 ```
-
 
